@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-22:23:54	65554/65554	---MCZ	200	added ('OK')	text/html	etag:W/%2265f1856a-10012%22	https://megaone.acrothemes.com/index-personal-hotspot.html	D:/picture/new03062024/megaone.acrothemes.com/index-personal-hotspot.html	(from )
-22:23:55	60/60	---M--	200	added ('OK')	text/plain	etag:%225f6b82ea-3c%22	https://megaone.acrothemes.com/robots.txt		(from )
